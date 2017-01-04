@@ -1,7 +1,7 @@
 #!/bin/sh
 
 URLBASIC="https://plex.tv/api/downloads/1.json"
-URLPLEXPASS="https://plex.tv/api/downloads/1.json?channel=plexpass"
+URLPLEXPASS="https://downloads.plex.tv/plex-media-server/1.2.0.3167-aa897d8/PlexMediaServer-1.2.0.3167-aa897d8-freebsd-amd64.tar.bz2"
 DOWNLOADPATH="/tmp"
 LOGPATH="/tmp"
 LOGFILE="PMS_Updater.log"
